@@ -3,6 +3,6 @@ package com.praveen.bookmyshow.models;
 public enum ShowSeatStatus {
     AVAILABLE,
     BLOCKED,
-    RESERVED,
+    BOOKED,
     NOT_AVAILABLE,
 }
