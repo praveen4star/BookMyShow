@@ -1,6 +1,5 @@
 package com.praveen.bookmyshow.dtos;
 
-import com.praveen.bookmyshow.models.Ticket;
 import lombok.Getter;
 import lombok.Setter;
 
